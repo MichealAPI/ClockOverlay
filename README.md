@@ -47,4 +47,3 @@ ClockOverlay solves this problem by providing a floating time overlay that remai
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
